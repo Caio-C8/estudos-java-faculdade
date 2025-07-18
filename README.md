@@ -16,4 +16,4 @@ O repositório está dividido em duas branches:
 
 ### Pré-requisitos
 
-- [JDK](https://www.oracle.com/br/java/technologies/downloads/) instalado.
+- [JDK](https://www.oracle.com/br/java/technologies/downloads/) instalado e configurado.
