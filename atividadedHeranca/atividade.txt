@@ -1,0 +1,3 @@
+As seguintes classes devem ser implementadas: Pessoa, Funcionario, Gerente e Desenvolvedor. Você deve utilizar encapsulamento e
+também representar o relacionamento entre essas classes. Ou seja, analise o cenário e modele os objetos
+e seus relacionamentos. Crie as heranças necessárias para a reutilização de código. Desenvolver o diagrama de classes

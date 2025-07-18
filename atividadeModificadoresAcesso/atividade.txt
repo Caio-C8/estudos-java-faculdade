@@ -1,0 +1,5 @@
+Crie uma classe Funcionario. O funcionário deve ter
+um nome, cpf, cargo e salário base. A classe deve
+conter os métodos getters e setters e um outro
+método para promover o funcionário. A mudança de
+salário ocorre apenas com uma promoção.

@@ -1,0 +1,26 @@
+Descrição: Implemente uma Interface IVeiculo e crie duas classes concretas, Carro e Moto, que
+implementem essa Interface. Além disso, você deve criar uma outra Interface para simular herança múltipla,
+chamada IVeiculoEletrico, que adiciona funcionalidades especícas para veículos elétricos. Implemente
+também a classe concreta CarroEletrico, que deve implementar IVeiculo e IVeiculoEletrico.
+Descrição dos métodos das classes concretas e Interfaces:
+
+IVeiculo
+ - acelerar()
+ - frear()
+
+IVeiculoEletrico
+ - carregarBateria(double kilowatts)
+ - verificarNivelBateria()
+
+Carro
+ - Implementar IVeiculo
+ - Método específico ligarArCondicionado()
+
+Moto
+ - Implementar IVeiculo
+ - Método específico darGrau()
+ 
+CarroEletrico
+ - Implementar IVeiculo
+ - Implementar IVeiculoEletrico
+ - Método ativarModoEconomico()

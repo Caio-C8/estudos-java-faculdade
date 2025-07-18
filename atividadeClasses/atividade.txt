@@ -1,0 +1,10 @@
+Classe Cliente: Deve conter as informações pessoais
+do cliente. Deve conter uma funcionalidade para
+consultar as informações do cliente;
+
+Classe Conta: Deve conter as informações de conta,
+por exemplo, tipo (corrente, salário etc), saldo etc.
+Deve conter as funcionalidades de consultar o saldo,
+depositar e sacar.
+
+Desenhe os diagramas de classe e implemente as mesmas

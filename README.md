@@ -7,13 +7,24 @@ O repositório está dividido em duas branches:
 
 - **exercicios/atividades**: Exercícios e atividade feitas para praticar lógica de programação, programação orientada a objetos e conceitos da linguagem Java.
 
-## Trabalho
+## Atividade Maven
 
 ### Instruções de Execução
 
-1. Navegue até o diretório raiz "trabalhoSistemaVendas"
-2. Execute o arquivo "Main.java" do jeito que preferir e em qualquer IDE de sua preferência
+1. Navegue até o diretório raiz "atividadeMaven"
+2. Execute:
+
+```bash
+mvn compile
+```
+
+3. Execute:
+
+```bash
+mvn exec:java
+```
 
 ### Pré-requisitos
 
-- [JDK](https://www.oracle.com/br/java/technologies/downloads/) instalado.
+- [JDK](https://www.oracle.com/br/java/technologies/downloads/) instalado e configurado.
+- [Maven](https://maven.apache.org/download.cgi) instalado e configurado.
